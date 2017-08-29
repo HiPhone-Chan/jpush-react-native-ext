@@ -1,6 +1,6 @@
 {
   "name": "jpush-react-native-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "jpush 扩展封装",
   "main": "index.js",
   "scripts": {
