@@ -1,0 +1,23 @@
+{
+  "name": "jpush-react-native-ext",
+  "version": "1.0.0",
+  "description": "jpush 扩展封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HiPhone-Chan/jpush-react-native-ext.git"
+  },
+  "keywords": [
+    "jpush",
+    "react-native"
+  ],
+  "author": "chf",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/HiPhone-Chan/jpush-react-native-ext/issues"
+  },
+  "homepage": "https://github.com/HiPhone-Chan/jpush-react-native-ext#readme"
+}

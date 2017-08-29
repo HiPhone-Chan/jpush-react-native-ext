@@ -1,0 +1,19 @@
+# mac
+.DS_Store
+*Thumbs.db
+
+# idea
+*.iml
+.gradle
+.idea
+gradle.properties
+build/
+build-res/
+android/build/
+
+# vsc
+.vscode
+
+# npm
+node_modules
+npm-debug.log
